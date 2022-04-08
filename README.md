@@ -1,1 +1,1 @@
-# pyton ile temel algoritma çalışması 
+# python ile temel algoritma çalışması 
